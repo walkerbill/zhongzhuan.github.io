@@ -1,2 +1,2 @@
 # www.jidekang.cf
-jidekang.cf子域中转站
+jidekang.cf域名中心
